@@ -3,4 +3,4 @@
 #
 ---
 exports:
-    header-dirs: [ libigl/include ]
+    header-dirs: [ libigl/include, libigl/external/eigen ]
