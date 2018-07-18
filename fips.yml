@@ -1,0 +1,6 @@
+#
+# fips-libigl
+#
+---
+exports:
+    header-dirs: [ libigl/include ]
