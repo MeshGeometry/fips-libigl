@@ -5,3 +5,5 @@
 exports:
     header-dirs: 
       - libigl/include
+    # modules:
+    #   libigl: .
