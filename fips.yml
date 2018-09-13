@@ -5,5 +5,6 @@
 exports:
     header-dirs: 
       - libigl/include
-    # modules:
-    #   libigl: .
+      - libigl/external/glad/include
+      - libigl/external/glfw/include
+      - libigl/external/imgui/include  
