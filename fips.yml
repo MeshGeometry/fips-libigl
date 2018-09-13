@@ -7,4 +7,5 @@ exports:
       - libigl/include
       - libigl/external/glad/include
       - libigl/external/glfw/include
-      - libigl/external/imgui/include  
+      - libigl/external/imgui/imgui
+      - libigl/external/eigen  
