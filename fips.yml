@@ -10,5 +10,5 @@ exports:
       - libigl/external/imgui/imgui
       - libigl/external/eigen  
       
-    modules:
-      libigl: .
+    # modules:
+    #   libigl: .
